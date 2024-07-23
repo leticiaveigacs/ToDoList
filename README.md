@@ -14,6 +14,13 @@ This application helps users create and manage projects and their associated tas
 - **Task Status**: Tasks can be moved between "Stand-By", "In Progress", and "Completed".
 - **User Interface**: Intuitive and responsive interface for easy task and project management.
 
+### Video 💻
+
+You can view a demonstration of the game:
+
+- [Watch the video](https://github.com/leticiaveigacs/memoryGame/issues/1#issue-2410707928) 
+
+
 ## How to Use 🕹️
 
 1. **Add a Project**:
