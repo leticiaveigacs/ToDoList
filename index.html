@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Projects e Tasks</title>
+
+        <!-- Linking external CSS file for styles -->
+        <link rel="stylesheet" href="styles.css" />
+
+        <!-- Linking external JavaScript file for interactivity -->
+        <script src="app.js"></script>
+    </head>
+    <body>
+        <header>
+            <!-- Main heading of the page -->
+            <h1>Projects e Tasks</h1>
+        </header>
+        <main>
+            <!-- Section for managing projects -->
+            <section id="projects">
+                <h3>Projects</h3>
+                <div>
+                    <!-- Form for adding a new project -->
+                    <form id="project-new" action="" onsubmit="return false">
+                        <label for="project-title">Project:</label>
+                        <input type="text" id="project-title" />
+                        <input type="submit" value="Novo Projecto" />
+                    </form>
+                </div>
+                <!-- List to display the projects -->
+                <ul class="list"></ul>
+            </section>
+ 
+            <!-- Section for managing tasks -->
+            <section id="tasks">
+                <h3>Tasks</h3>
+                <div>
+                    <!-- Form for adding a new task -->
+                    <form id="task-new" action="" onsubmit="return false">
+                        <label for="task-project">Project:</label>
+                        <!-- Dropdown to select a project for the new task -->
+                        <select id="task-project"></select>
+                        <label for="task-title">Task:</label>
+                        <input type="text" id="task-title" />
+                        <input type="submit" value="Nova Tarefa" />
+                    </form>
+                </div>
+                <!-- Div to display tasks that are on standby -->
+                <div id="tasks-standby">
+                    <h4>On Stand-By</h4>
+                    <ul class="list"></ul>
+                </div>
+                <!-- Div to display tasks that are currently being executed -->
+                <div id="tasks-doing">
+                    <h4>Running</h4>
+                    <ul class="list"></ul>
+                </div>
+                <!-- Div to display tasks that have been completed -->
+                <div id="tasks-done">
+                    <h4>Completed</h4>
+                    <ul class="list"></ul>
+                </div>
+            </section>
+        </main>
+        <!-- Footer section -->
+        <footer>COPYRIGHT &copy; 2024</footer>
+    </body>
+</html>
