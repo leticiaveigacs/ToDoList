@@ -45,11 +45,11 @@ This application helps users create and manage projects and their associated tas
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/todolist.git
+   git clone https://github.com/leticiaveigacs/ToDoList.git
    ```
 2. Navigate to the project directory:
    ```
-   cd todolist
+   cd ToDoList
    ```
 3. Open the `index.html` file in your web browser.
 
