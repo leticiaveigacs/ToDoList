@@ -8,7 +8,7 @@ A simple to-do list application for managing projects and tasks, developed using
 This application helps users create and manage projects and their associated tasks. Users can add new projects, create tasks for these projects, and organize tasks into different states such as "Stand-By", "In Progress", and "Completed".
 
 
-- [Click](https://leticiaveigacs.github.io/ToDoList/)
+[Click here to view the application](https://leticiaveigacs.github.io/ToDoList/)
 
 
 ## Features
