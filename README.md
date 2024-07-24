@@ -7,7 +7,7 @@ A simple to-do list application for managing projects and tasks, developed using
 
 This application helps users create and manage projects and their associated tasks. Users can add new projects, create tasks for these projects, and organize tasks into different states such as "Stand-By", "In Progress", and "Completed".
 
-[Click](https://leticiaveigacs.github.io/ToDoList/)
+[Click](https://leticiaveigacs.github.io/ToDoList)
 
 
 ## Features
@@ -53,20 +53,28 @@ You can view a demonstration of the game:
 
 ## How to Run Locally
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/leticiaveigacs/ToDoList.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ToDoList
-   ```
-3. Open the `index.html` file in your web browser.
+## How to Run 💻
+1. **Clone this repository to your local environment**:
+    
+```bash
+git clone https://github.com/leticiaveigacs/ToDoList.git
+```
+
+2. **Navigate to the project directory**:
+    
+```bash
+cd memoryGame
+```
+
+3. **Open the index.html file in your web browser**.
 
 ## Acknowledgements
 
 This project was inspired by the need for a simple and effective task management tool and was developed as part of learning front-end programming.
 
 Enjoy managing your tasks! 🚀
-```
+
+
+
+
 
