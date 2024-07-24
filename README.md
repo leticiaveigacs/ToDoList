@@ -63,7 +63,7 @@ git clone https://github.com/leticiaveigacs/ToDoList.git
 2. **Navigate to the project directory**:
     
 ```bash
-cd memoryGame
+cd ToDoList
 ```
 
 3. **Open the index.html file in your web browser**.
