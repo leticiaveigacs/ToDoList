@@ -1,4 +1,4 @@
-```markdown
+
 # Projects and Tasks  📚
  
 A simple to-do list application for managing projects and tasks, developed using HTML, CSS, and JavaScript.
