@@ -48,8 +48,6 @@ You can view a demonstration of the game:
 ## Technical Features
 
 - **Technologies Used**: HTML, CSS, JavaScript.
-- **Responsive Design**: Ensures usability across different devices.
-- **Dynamic UI**: Interactive elements for adding projects and tasks, with smooth animations for task status updates.
 
 ## How to Run Locally
 
